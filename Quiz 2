@@ -1,0 +1,34 @@
+Tengo un modelo que marca los puntos faciales de una persona
+## D. Es un modelo de regresion
+
+Es conocido como distancia Manhattan
+## A. L1 norm
+
+Normalmente dividimos el dataset en 80 / 20.  A este 20 porciento se le conoce regularmente como
+## C. Test Set
+
+
+
+Un dato arroja -0.9 en su correlacion contra otro dato.  Esto significa
+## D. Relacion inversa alta
+
+
+
+Cuando hacemos limpieza de datos tenemos informacion categorica que podemos ingresar directamente al modelo
+## B. Falso
+
+
+Para entrenar al modelo utilizamos el siguiente metodo
+## B. .fit()
+
+Tengo un split del dataset y voy a aplicar validacion cruzada, puedo aplicar esto haciendo
+## A. KFold
+
+Puedo obtener los mejores hiperparametros del modelo AUTOMATICAMENTE haciendo
+## A. GridSearch
+
+Para servir el algoritmo en una pagina web debemos obtener
+## B. El modelo en un formato serializable
+
+Cual de las siguientes no es una plataforma para servir una aplicacion de IA
+## D. Yahoo Web Services
