@@ -1,0 +1,53 @@
+1. ¿Qué es el machine learning?
+A. Un conjunto de técnicas que permiten a las máquinas aprender a partir de datos
+
+2. ¿Qué es un vector en matemáticas?
+B. Una cantidad con dirección y magnitud
+
+3. ¿Qué es una matriz en matemáticas?
+C. Un arreglo n-dimensional de elementos numéricos
+
+4. ¿Cuál es la operación matricial que representa la transposición de una matriz A?
+A. A.T
+
+5. Si quisiéramos multiplicar 'A' y 2, ¿podríamos realizar la operación?
+A. Sí
+
+6. ¿Qué es una función matemática?
+A. Un conjunto de reglas que asignan a cada elemento de un conjunto de entrada un único elemento de un conjunto de salida
+
+7. ¿Qué es una función lineal en matemáticas?
+A. Una función que tiene la forma f(x) = a*x + b
+
+8. ¿Qué es una función exponencial en matemáticas?
+C. Una función que tiene la forma f(x) = e**x
+
+9. ¿Qué es la regresión lineal en el contexto del machine learning?
+B. Un algoritmo que encuentra la mejor línea recta que describe la relación entre dos variables
+
+10. ¿Cuáles son los tres tipos principales de machine learning?
+A. Aprendizaje supervisado, aprendizaje no supervisado, aprendizaje reforzado
+
+11. ¿Qué es el aprendizaje supervisado?
+A. Un tipo de aprendizaje en el que la máquina aprende a partir de datos etiquetados
+
+12. ¿Qué es una función de pérdida?
+A. Una función que mide la discrepancia entre las predicciones de la máquina y los valores reales
+
+13. ¿Cuál es el objetivo de la regresión logística?
+C. Clasificar datos en diferentes categorías
+
+14. De las siguientes opciones, ¿qué se puede resolver con la regresión logística?
+C. Clasificación binaria y múltiple
+
+15. ¿Cuál es la función de pérdida utilizada en la regresión logística?
+B. Entropía cruzada
+
+16. ¿Cuál es el objetivo de la regresión lineal?
+A. Predecir valores continuos
+
+17. ¿Cuál es la función de costo utilizada en la regresión lineal?
+A. Error cuadrático medio
+
+18. ¿Cómo se puede evaluar si el modelo de regresión lineal se ajusta adecuadamente a los datos?
+C. A través del cálculo del error cuadrático medio
